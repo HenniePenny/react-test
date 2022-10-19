@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8fbf1f39.css","mappings":"AAAA,SACE,kBAAmB,CACnB,YACF,CAEA,YACE,iBACF","sources":["styles/Section.css"],"sourcesContent":[".section {\n  background: #f3e5f5;\n  padding: 20px;\n}\n\n.section h2 {\n  text-align: center;\n}\n"],"names":[],"sourceRoot":""}
